@@ -2,7 +2,7 @@
   "name": "fivereborn-serverlist",
   "version": "1.0.0",
   "description": "Query FiveReborn master server for a list of available game servers",
-  "main": "index.js",
+  "main": "lib/fivem.js",
   "dependencies": {
     "async": "^2.1.5",
     "commander": "^2.9.0",
