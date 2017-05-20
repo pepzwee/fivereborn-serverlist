@@ -1,5 +1,7 @@
 # fivereborn-serverlist
 
+Improvements by PEPZ
+
 Simple NodeJS application to query the (dpmaster based) *FiveReborn* / *FiveM* / *project Ʌ* (or whatever it's called now) master server for a list of available game server using UDP.
 
 ## Installation 
